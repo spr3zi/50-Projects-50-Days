@@ -1,2 +1,2 @@
-# 50-Projects-50-Days
-Front End Dev Exercises courtesy of @traversymedia and  @florinpop1705
+# FrontEnd-Exercises
+Exercises courtesy of @traversymedia and  @florinpop1705 via their course: https://www.udemy.com/course/50-projects-50-days/
